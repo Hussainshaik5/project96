@@ -22,7 +22,11 @@ This is a web based application developed for health related based website in in
 - User can know about music hiphop information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 - we also provide chatbot for more information.
+
 ## Screenshots
+
+![Screenshot (986)](https://user-images.githubusercontent.com/119917509/208360092-f8a9447a-e7d4-4b59-bd11-b66e584e466a.png)
+![Screenshot (987)](https://user-images.githubusercontent.com/119917509/208360095-93d877b7-e555-4ee9-876d-e663fce0c6e5.png)
 ![Screenshot (533)](https://user-images.githubusercontent.com/119917509/206158143-b68d6ede-518a-476a-b0ce-037a2fb3ae5d.png)
 ![Screenshot (534)](https://user-images.githubusercontent.com/119917509/206158154-57a583ea-f338-47df-a37d-19c528ef5677.png)
 ![Screenshot (535)](https://user-images.githubusercontent.com/119917509/206158155-756184c3-8d81-4998-9ff0-b056547a2642.png)
@@ -65,4 +69,4 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
-
+- BOOTSTRAP
